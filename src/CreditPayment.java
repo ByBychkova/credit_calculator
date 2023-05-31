@@ -1,4 +1,4 @@
-public class BmiService {
+public class CreditPayment{
 
     public int calculate(double sum, double proc, double term) {
 
