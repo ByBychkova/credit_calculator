@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        W service = new W();
+        BmiService service = new BmiService();
 
         int result = service.calculate(1_000_000, 9.99, 12);
         System.out.println((result) + " Ежемесячный платеж со сроком кредита 1 год");
