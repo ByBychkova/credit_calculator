@@ -1,4 +1,4 @@
-public class W {
+public class BmiService {
 
     public int calculate(double sum, double proc, double term) {
 
